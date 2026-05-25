@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "16d6",
+      "fullname": "رونالدو",
+      "photo": "https://match-cdn.varzesh3.com/football-player/2023/02/26/B/2wtftik5.jpg?w=75",
+      "mobile": 9112333,
+      "email": "ronaldo@gmail.comccccc",
+      "job": "فوتبالیست",
+      "group": "3"
+    },
+    {
+      "id": "e96c",
+      "fullname": "مسی",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg/250px-Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+      "mobile": "0000",
+      "email": "reza@gmail.comaaaaa",
+      "job": "فوتبالیست",
+      "group": "3"
+    },
+    {
+      "id": "273d",
+      "fullname": "نقی معمولی",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Naghi_Mamoli.jpg",
+      "mobile": 1111111,
+      "email": "naghi@gmail.com",
+      "job": "هد فامیل",
+      "group": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
