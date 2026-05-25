@@ -1,6 +1,6 @@
 import axios from "axios";
-const SERVER_URL = 'http://localhost:9000'
 // const SERVER_URL = 'http://localhost:9000'
+const SERVER_URL = 'https://6a14b80d91ff9a63de06fe6b.mockapi.io/'
 
 // @desc Get All Contacts
 // @rout get "http://localhost:9000/contacts"
